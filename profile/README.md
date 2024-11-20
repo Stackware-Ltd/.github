@@ -1,12 +1,5 @@
-## Welcome to the team 🙌
+## Welcome to the Team 🙌
 
-<!--
+Before starting, please check out the development guidelines repo pinned below this message to get up to date with coding standards we use here at Stackware.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-👀 Contribution guidelines - how do team members dive in?
-👩‍💻 Useful resources - where do you keep your docs? Is there anything else the team should know?
-🍪 Fun facts - what is your team's favorite snack?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+If you have any questions, please feel free to ask without hesitation!
