@@ -6,8 +6,6 @@
   <img src="https://raw.githubusercontent.com/Stackware-Ltd/.github/dev/assets/Stackware%20Logo%20Transparent.png" alt="Stackware Ltd" width="400">
 </p>
 
-# Stackware
-
 **Custom software development company specialising in HMI modernisation, embedded interfaces, and connected products.**
 
 We transform outdated HMIs into modern, premium interfaces, and build custom desktop, mobile, embedded, web and cloud applications. We work across manufacturing, medical, automotive, retail and enterprise, taking products from concept to production with one integrated team accountable throughout.
