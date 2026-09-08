@@ -1,4 +1,4 @@
-# profile/assets/Stackware Logo Transparent.png
+# assets/Stackware Logo Transparent.png
 # Stackware Ltd 
 
 **Custom software development company specialising in HMI modernisation, embedded interfaces, and connected products.**
