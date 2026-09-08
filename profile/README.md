@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/Stackware-Ltd/.github/dev/assets/Stackware%20Logo%20Transparent.png" alt="Stackware Ltd" width="400">
 </p>
 
-# Stackware Ltd 
+# Stackware
 
 **Custom software development company specialising in HMI modernisation, embedded interfaces, and connected products.**
 
