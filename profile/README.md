@@ -1,4 +1,6 @@
-# assets/Stackware Logo Transparent.png
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Stackware-Ltd/.github/dev/assets/Stackware%20Logo%20Transparent.png" alt="Stackware Ltd" width="280">
+</p>
 # Stackware Ltd 
 
 **Custom software development company specialising in HMI modernisation, embedded interfaces, and connected products.**
