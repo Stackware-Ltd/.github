@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Stackware-Ltd/.github/dev/assets/Banner%20Design.png" alt="Stackware Ltd" width="600">
+  <img src="https://raw.githubusercontent.com/Stackware-Ltd/.github/dev/assets/Banner%20Design.png" alt="Stackware Ltd" width="1200">
 </p>
 
 <p align="left">
